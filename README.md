@@ -111,7 +111,13 @@ Jangan ragu untuk membuka **Issue** atau kirim **Pull Request**. Mari kita buat 
 
 Proyek ini dilisensikan di bawah **MIT License**. Artinya, kamu bebas menggunakannya, memodifikasinya, dan bahkan memamerkannya ke bos kamu (sebagai karya kamu sendiri, hehe... bercanda, tetap hargai open source ya! 😉).
 
----
-*Dibuat dengan ❤️ dan sedikit ☕ oleh [rifqiapta26](https://github.com/rifqiapta26)*
+
+
+<p align="center"><i>Dibuat dengan ❤️ dan sedikit ☕ oleh <a href="https://github.com/rifqiapta26/">rifqiapta26</a></i></p>
+
+
+
+
+
 
 
